@@ -1,17 +1,17 @@
 # main text of home
 name: Computeus
-bio: A Man who travels the world eating noodles
+bio: A Man who drinks coffee and codes ruby
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about ruby experiences
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: http://fatihaytac.com.tr
+# your url: http://computeus.github.io
 
 permalink: /:title/
 
@@ -29,18 +29,18 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: fatih.aytac
+twitter: fatihaytac
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+linkedin: fatihaytac
+# youtube: fatihaytac
+# spotify: myspotify
+github: computeus
+# medium: medium
+# vimeo: myvimeo
+email: fatih.aytac@gmail.com
 
 authors:
     johndoe:
