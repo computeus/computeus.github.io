@@ -6,7 +6,7 @@ layout: page
 
 <h2>Hi, I'm Fatih</h2>
 
-<p>I'm a senior backend developer, working at <a href="https://hizliceviri.com" target="_blank">HIZLIÇEVİRİ</a>. I used to work for YellowPages Turkey, Vidivodo.com and Hotelrunner.com.</p>
+<p>I'm a senior backend developer, working at <a href="https://hizliceviri.com" target="blank">HIZLIÇEVİRİ</a>. I used to work for YellowPages Turkey, Vidivodo.com and Hotelrunner.com.</p>
 
 <p>I mostly work with Ruby on Rails and Laravel.</p>
 
