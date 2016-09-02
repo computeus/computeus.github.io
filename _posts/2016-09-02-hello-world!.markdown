@@ -7,7 +7,7 @@ description:
 tag:
 blog: true
 jemoji:
-author: Fatih Aytaç
+author: computeus
 ---
 
 ## Summary:
